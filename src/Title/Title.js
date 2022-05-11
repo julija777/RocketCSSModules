@@ -1,12 +1,12 @@
-import React from "react";
-import styles from './Title.module.css'
+import React from 'react';
+import styles from './Title.module.css';
 
 const Title = () => {
-    return (
-        <div>
-            <h1 className={styles.Title} >Title</h1>
-        </div>
-    )
+  return (
+    <div>
+      <h1 className={styles.title}>NASA Facts</h1>
+    </div>
+  );
 }
 
-export default Title; 
+export default Title;

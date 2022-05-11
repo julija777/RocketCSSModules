@@ -11,27 +11,25 @@
 
 .stars {
     composes: backgroundItems;
-    background: black url(../img/stars.png) repeat top centre;
+    background: rgb(1, 1, 15) url(../Images/stars.png) repeat top center;
     z-index: -3;
-
 }
 
 .alpha {
     composes: backgroundItems;
-    background: transparent url(../img/alpha.png) repeat top centre;
+    background: transparent url(../Images/alpha.png) repeat top center;
     z-index: -2;
     animation: stargazing 500s linear infinite;
-
 }
 
 .nebula {
     composes: backgroundItems;
-    background: transparent url(../img/nebula.png) repeat top centre;
+    background: transparent url(../Images/nebula.png) repeat top center;
     z-index: -1;
     opacity: 0.15;
 }
 
 @keyframes stargazing {
     from { background-position: 0 0;}
-    to {background-position: -10000px 5000px;}
+    to { background-position: -10000px 5000px;}
 }
