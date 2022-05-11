@@ -14,4 +14,4 @@ Learned:
 
 Deployed:
 
-julija777rocket2modules.netlify.app
+https://julija777rocket2modules.netlify.app/
