@@ -1,20 +1,22 @@
-Created:
-SPA with fucts about NASA for practising css-modules
+<ins>Created:</ins><br>
+<br>
+SPA with the facts about NASA for practising css-modules.
 
-Used:
-React, CSS, HTML, JavaScript, npm frameworks
+<ins>Used:</ins><br>
+<br>
+React, CSS, HTML, JavaScript, npm frameworks.
 <br>
 https://animate.style/
 <br>
 $ npm install animate.css --save
 <br>
-<br>
 $ npm install classnames
 
-Learned:
-With this project i reminded myself how is better to break up a projects to separate components <br>
-and how to use css modules to each component.
+<ins>Learned:</ins><br>
+<br>
+With this project I reminded myself how is better to break up a project to separate components <br>
+and how to use CSS-modules for each component.
 
-Deployed:
-
+<ins>Deployed:</ins><br>
+<br>
 https://julija777rocket2modules.netlify.app/
