@@ -45,5 +45,5 @@ and how to use CSS-modules for each component.
 
 ## Bugs:
 
-- [ ] When Grid component is abled then the audio and Smoke motion not working.<br>
+- [ ] When Grid component is enabled then the audio and Smoke motion not working.<br>
        Smoke and audio only works when Grid and GridItem components are disabled. Fix when time.
